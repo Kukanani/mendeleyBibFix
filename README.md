@@ -3,6 +3,10 @@
 Make a backup copy of your .bib file before proceeding with these commands.
 Read syntax for each command carefully.
 
+## 0. ArXiv LaTeX Cleaner
+
+https://github.com/google-research/arxiv-latex-cleaner
+
 ## 1. MendeleyBibFix
 Mendeley BibFix does the following:
 * changes double braces around titles to single braces
